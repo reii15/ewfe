@@ -1,0 +1,43 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Warna latar belakang umum */
+    color: #333; /* Warna teks utama */
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    padding: 10px 20px; /* Padding navbar */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-brand img {
+    margin-right: 5px; /* Jarak antara gambar dan teks */
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 10px; /* Jarak antar item navbar */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* Warna teks link navbar */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #fff; /* Warna teks link navbar saat dihover */
+    text-decoration: underline; /* Garis bawah saat dihover */
+  }
+  
+  /* Container Styles */
+  .container {
+    padding-top: 20px; /* Padding atas container */
+  }
+  
+  /* Page Content Styles */
+  /* Sesuaikan gaya konten di dalam file 'isi.php' */
+  
